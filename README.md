@@ -1,9 +1,10 @@
 # Estate-website-project
+Below are some sample screen shoots of our website
 <br />
 <br />
 <br />
-# Home Page
 
+# Home Page
 <img height = "550" src = "https://github.com/Huiliang-M/Estate-website-project/blob/master/Picture1.png" />
 <br />
 <br />
