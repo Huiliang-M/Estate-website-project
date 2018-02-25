@@ -1,8 +1,5 @@
 # Estate-website-project
 <br />
-
-
-# Example Results:
 <br />
 <br />
 # Home Page
